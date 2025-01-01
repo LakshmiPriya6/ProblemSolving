@@ -1,19 +1,20 @@
 class Solution {
     public boolean isCircularSentence(String sentence) {
-       String[] str = sentence.split(" "); Boolean flag = true;
-       String firstStr = str[0];
-       String lastStr = str[str.length-1];
-       if(firstStr.charAt(0) != lastStr.charAt(lastStr.length()-1)){
-        return false;
-        }
+        // Split the sentence into words
+        String[] words = sentence.split(" ");
         
-       for (int i=0; i< str.length-1;i++){
-        String newStr = str[i];
-        String nextStr = str[i+1];
-        if(newStr.charAt(newStr.length()-1) != nextStr.charAt(0)){
-            flag = false;
+        // Check circular condition for each adjacent pair of words
+        for (int i = 0; i < words.length; i++) {
+            String currentWord = words[i];
+            String nextWord = words[(i + 1) % words.length];  // Ensure circular check for the last word
+
+            // Check if last character of current word matches the first character of next word
+            if (currentWord.charAt(currentWord.length() - 1) != nextWord.charAt(0)) {
+                return false;
+            }
         }
-       }
-       return flag;
+
+        // If all checks pass, the sentence is circular
+        return true;
     }
 }
