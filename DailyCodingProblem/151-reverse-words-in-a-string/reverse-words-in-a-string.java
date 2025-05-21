@@ -7,7 +7,8 @@ class Solution {
         
     }*/
 
-
+    //Solution 2
+    /*
     public StringBuilder trimSpaces(String s){
         int left =0, right = s.length() -1;
 
@@ -56,5 +57,29 @@ class Solution {
 
        return sb.toString();
         
+    }*/
+
+    public String reverseWords(String s){
+        int left=0, right = s.length()-1;
+
+        while(left<=right && s.charAt(left) == ' ') ++left;
+        while(left<=right && s.charAt(right) == ' ') --right;
+
+
+        Deque<String> queue = new ArrayDeque();
+        StringBuilder word = new StringBuilder();
+
+        while(left <= right){
+            char c = s.charAt(left);
+            if(word.length()!=0 && c == ' '){
+                queue.offerFirst(word.toString());
+                word.setLength(0);
+            } else if(c != ' '){
+                word.append(c);
+            }
+            ++left;
+        }
+        queue.offerFirst(word.toString());
+        return String.join(" ", queue);
     }
 }
