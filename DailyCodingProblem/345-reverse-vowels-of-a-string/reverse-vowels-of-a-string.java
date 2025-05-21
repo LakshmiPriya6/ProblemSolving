@@ -1,32 +1,33 @@
 class Solution {
     public String reverseVowels(String s) {
+        char str[] = s.toCharArray();
+        int i = 0;
+        int j = str.length-1;
 
-        char[] charArray = s.toCharArray();
-        int left = 0;
-        int right = s.length()-1;
-        while(left < right){
+        
 
-            while(left<s.length() && !isVowel(charArray[left])){
-                left++;
+        while(i<j){
+            while ( i < s.length() && !isVowel(str[i])){
+                i++;
+            } 
+            while (j >= 0 && !isVowel(str[j])){
+                j--;
             }
-            while(right>=0 && !isVowel(charArray[right])){
-                right--;
-            }
-            if(left < right){
-                swap(charArray, left++, right--);
+            if(i <j){
+               swap(str, i++, j--);
             }
         }
-        return new String(charArray);
-    }
-    boolean isVowel(char a) {
-    a = Character.toLowerCase(a);
-    return a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u';
+        return new String(str);
     }
 
-    void swap(char[] arr, int x, int y){
-        char temp = arr[x];
-        arr[x] = arr[y];
-        arr[y] = temp;
+    public void swap(char[] ch, int i, int j) {
+        char temp = ch[i];
+        ch[i] = ch[j];
+        ch[j] = temp;
     }
 
+    public boolean isVowel(char a) {
+        return a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u' ||
+                a == 'A' || a == 'E' || a == 'I' || a == 'O' || a == 'U';
+    }
 }
