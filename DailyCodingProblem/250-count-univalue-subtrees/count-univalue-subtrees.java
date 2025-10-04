@@ -14,31 +14,31 @@
  * }
  */
 class Solution {
-    int count = 0;
-
-    public boolean dfs(TreeNode node){
+    private Pair<Boolean, Integer> dfs(TreeNode node){
         if(node == null){
-            return true;
+            return new Pair<>(true,0);
         }
 
-        boolean left = dfs(node.left);
-        boolean right = dfs(node.right);
+        Pair<Boolean, Integer> leftPair = dfs(node.left);
+        Pair<Boolean, Integer> rightPair = dfs(node.right);
+        boolean left = leftPair.getKey();
+        boolean right = rightPair.getKey();
+        int count = leftPair.getValue() + rightPair.getValue();
 
         if(left && right){
             if(node.left !=null && node.left.val != node.val){
-                return false;
+                return new Pair<>(false,count);
             }
             if(node.right !=null && node.right.val != node.val){
-                return false;
+                return new Pair<>(false,count);
             }
             count++;
-            return true;
+            return new Pair<>(true,count);
         }
-        return false;
+        return new Pair<>(false,count);
     }
     public int countUnivalSubtrees(TreeNode root) {
-        dfs(root);
-        return count;
+        return dfs(root).getValue();
     }
 
 
