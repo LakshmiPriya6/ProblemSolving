@@ -5,7 +5,7 @@ class Solution {
         for(int candy : candies){
             maxCandies = Math.max(maxCandies, candy);
 
-        }
+        } //int maxCandies = Arrays.stream(candies).max().getAsInt();
         for(int candy : candies){
             if(maxCandies <= candy + extraCandies){
                 result.add(true);
