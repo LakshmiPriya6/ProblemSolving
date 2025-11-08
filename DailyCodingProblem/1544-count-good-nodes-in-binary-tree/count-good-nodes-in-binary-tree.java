@@ -15,22 +15,18 @@
  */
 class Solution {
     public int goodNodes(TreeNode root) {
-        return dfs(root, Integer.MIN_VALUE);
+        return dfs(root, root.val);
     }
 
-    private int dfs(TreeNode node, int maxVal) {
-        if (node == null) {
-            return 0;
-        }
-
-        int count = node.val >= maxVal ? 1 : 0;
-
-        int newMaxVal = Math.max(maxVal, node.val);
-
-        // Recursively count good nodes in the left and right subtrees.
-        count += dfs(node.left, newMaxVal);
-        count += dfs(node.right, newMaxVal);
-
+    private int dfs(TreeNode node, int maxSoFar) {
+        if (node == null) return 0;
+        
+        int count = (node.val >= maxSoFar) ? 1 : 0;
+        maxSoFar = Math.max(maxSoFar, node.val);
+        
+        count += dfs(node.left, maxSoFar);
+        count += dfs(node.right, maxSoFar);
+        
         return count;
     }
 }
