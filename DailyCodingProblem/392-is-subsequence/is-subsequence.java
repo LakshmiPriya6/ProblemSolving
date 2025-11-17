@@ -7,13 +7,8 @@ class Solution {
         while(p1<n1 && p2<n2){
             if(s.charAt(p1) == t.charAt(p2)){
                 p1++;
-                p2++;
-                if(p1 == n1){
-                    return true;
-                }
-            } else {
-                p2++;
             }
+            p2++;
         }
         return p1==n1;
     }
