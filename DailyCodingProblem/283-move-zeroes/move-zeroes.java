@@ -1,13 +1,25 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int lastNonZeroIndex = 0;
-        for(int i =0; i<nums.length;i++){
-            if(nums[i] != 0){
-                nums [lastNonZeroIndex++] = nums[i];
+       int left = 0;
+       int right = 1;
+       while(right<nums.length && left<nums.length){
+        if(nums[left] != 0){
+            left++;
+            right = left +1;
+        } else if(right < nums.length && nums[right]==0){
+            right++;
+        }else if(nums[left] == 0){
+            if(right < nums.length  && nums[right] != 0){
+                swap(nums, left, right);
+                left++;
+                right = left+1;
             }
         }
-        for(int i =lastNonZeroIndex; i<nums.length;i++){
-           nums[i] = 0;
-        }
+       }
+    }
+    private void swap(int[] nums, int x, int y){
+        int temp = nums[x];
+        nums[x] = nums[y];
+        nums[y] = temp;
     }
 }
