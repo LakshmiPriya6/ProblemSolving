@@ -1,16 +1,20 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int prev = -1;
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            int idx=t.indexOf(c,prev + 1);
-            if(idx==-1){
-                return false;
-            
+        int p1=0;
+        int p2=0;
+        int n1 = s.length();
+        int n2 = t.length();
+        while(p1<n1 && p2<n2){
+            if(s.charAt(p1) == t.charAt(p2)){
+                p1++;
+                p2++;
+                if(p1 == n1){
+                    return true;
+                }
+            } else {
+                p2++;
             }
-         prev=idx;
-
         }
-        return true;
-   }
+        return p1==n1;
+    }
 }
