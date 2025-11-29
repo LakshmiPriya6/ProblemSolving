@@ -13,25 +13,28 @@
  *     }
  * }
  */
-import java.util.List;
-import java.util.ArrayList;
-
 class Solution {
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-        List<Integer> leaves1 = new ArrayList<>();
-        List<Integer> leaves2 = new ArrayList<>();
-        getLeaves(root1, leaves1);
-        getLeaves(root2, leaves2);
+        ArrayList<Integer> leaves1 = new ArrayList<>();
+        ArrayList<Integer> leaves2 = new ArrayList<>();
+        leaves1 = getLeafNodes(root1, leaves1);
+        leaves2 = getLeafNodes(root2, leaves2);
         return leaves1.equals(leaves2);
+
     }
 
-    private void getLeaves(TreeNode node, List<Integer> leaves) {
-        if (node == null) return;
-        if (node.left == null && node.right == null) {
-            leaves.add(node.val);
-            return;
+    private ArrayList<Integer> getLeafNodes(TreeNode root,ArrayList<Integer> leaves){
+        if(root == null){
+            return leaves;
         }
-        getLeaves(node.left, leaves);
-        getLeaves(node.right, leaves);
+        if(root!=null){
+            if(root.left == null && root.right == null){
+                leaves.add(root.val);
+            } else {
+                getLeafNodes(root.left, leaves);
+                getLeafNodes(root.right, leaves);
+            }
+        }
+        return leaves;
     }
 }
