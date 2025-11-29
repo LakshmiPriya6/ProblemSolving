@@ -34,9 +34,7 @@ class Solution {
             Node currNode = queue.poll();
             if(i < levelSize - 1){
                 currNode.next = queue.peek();
-            } else {
-                currNode.next = null;
-            }
+            } 
 
             if(currNode.left != null){
                 queue.add(currNode.left);
