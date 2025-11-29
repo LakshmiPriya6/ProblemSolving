@@ -26,23 +26,21 @@ class Solution {
         if(root == null){
             return null;
         }
-        Queue<Node> queue = new LinkedList();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            int levelSize = queue.size();
-            for (int i = 0; i < levelSize; i++) {
-            Node currNode = queue.poll();
-            if(i < levelSize - 1){
-                currNode.next = queue.peek();
-            } 
+        
+        Node leftmost = root;
 
-            if(currNode.left != null){
-                queue.add(currNode.left);
+        while(leftmost.left!= null){
+            Node head = leftmost;
+
+            while(head !=null){
+                head.left.next = head.right;
+
+                if(head.next != null){
+                    head.right.next = head.next.left;
+                }
+                head = head.next;
             }
-            if(currNode.right != null){
-                queue.add(currNode.right);
-            }
-        }      
+            leftmost = leftmost.left;
         }
         return root;
     }
