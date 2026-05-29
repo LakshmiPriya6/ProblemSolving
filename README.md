@@ -12,11 +12,13 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
 ## Sorting
