@@ -15,6 +15,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0739-daily-temperatures](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
