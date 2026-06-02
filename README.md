@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0359-logger-rate-limiter) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
@@ -98,6 +99,7 @@
 ## Design
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0359-logger-rate-limiter) |
 | [0933-number-of-recent-calls](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -106,5 +108,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0359-logger-rate-limiter) |
 | [0933-number-of-recent-calls](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
