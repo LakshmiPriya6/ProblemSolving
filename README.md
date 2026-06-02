@@ -17,6 +17,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0605-can-place-flowers](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
