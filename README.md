@@ -30,6 +30,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
