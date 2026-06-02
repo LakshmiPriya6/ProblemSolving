@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0605-can-place-flowers) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -57,5 +59,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
