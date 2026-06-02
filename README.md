@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
