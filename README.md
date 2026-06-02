@@ -6,6 +6,7 @@
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
+| [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
