@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,12 +36,14 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
