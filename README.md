@@ -47,6 +47,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0359-logger-rate-limiter) |
 | [0933-number-of-recent-calls](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
