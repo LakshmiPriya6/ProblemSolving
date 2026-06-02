@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
