@@ -28,6 +28,7 @@
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -72,4 +73,9 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
