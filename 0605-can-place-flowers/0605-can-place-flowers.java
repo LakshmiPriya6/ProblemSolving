@@ -10,6 +10,9 @@ class Solution {
              if(emptyLeftPlot && emptyRightPlot){
                 flowerbed[i]=1;
                 count++;
+                if(count>=n){
+                    break;
+                }
              }
            }
         }
