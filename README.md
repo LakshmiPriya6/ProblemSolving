@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1768-merge-strings-alternately) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1768-merge-strings-alternately) |
