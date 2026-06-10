@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0091-decode-ways) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0649-dota2-senate](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -88,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
