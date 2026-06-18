@@ -68,10 +68,12 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0359-logger-rate-limiter) |
+| [0901-online-stock-span](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0359-logger-rate-limiter) |
+| [0901-online-stock-span](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
