@@ -77,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -95,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -140,5 +142,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
