@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
