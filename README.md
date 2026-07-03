@@ -82,6 +82,7 @@
 | [0070-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
 |  |
 | ------- |
