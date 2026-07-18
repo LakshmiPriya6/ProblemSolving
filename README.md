@@ -42,6 +42,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@
 | [0263-ugly-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0263-ugly-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1137-n-th-tribonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
