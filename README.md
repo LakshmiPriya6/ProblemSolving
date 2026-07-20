@@ -37,6 +37,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [0941-valid-mountain-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1089-duplicate-zeros) |
+| [1260-shift-2d-grid](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -125,10 +126,12 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 ## Design
 |  |
