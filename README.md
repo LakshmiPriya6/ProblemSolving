@@ -20,6 +20,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1768-merge-strings-alternately) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LakshmiPriya6/ProblemSolving/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
